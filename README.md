@@ -1,8 +1,4 @@
-I went through your `app.py` file for the **AI-Powered Stock Trading Strategy** project and here’s a polished `README.md` you can use on GitHub:
 
----
-
-```markdown
 # 📈 AI-Powered Stock Trading Strategy
 
 An interactive **Streamlit web application** that uses **machine learning** to predict stock price movements and generate a trading strategy.  
