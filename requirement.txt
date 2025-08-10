@@ -1,0 +1,11 @@
+streamlit
+yfinance
+xgboost
+lightgbm
+scikit-learn
+plotly
+pandas
+numpy
+imbalanced-learn
+shap
+matplotlib
