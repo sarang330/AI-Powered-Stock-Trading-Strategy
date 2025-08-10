@@ -9,4 +9,3 @@ numpy
 imbalanced-learn
 shap
 matplotlib
-yfinance
